@@ -1,5 +1,5 @@
 [package]
-name = "serde_json"
+name = "serde_json_fork"
 version = "1.0.108"
 authors = ["Erick Tryzelaar <erick.tryzelaar@gmail.com>", "David Tolnay <dtolnay@gmail.com>"]
 categories = ["encoding", "parser-implementations", "no-std"]
